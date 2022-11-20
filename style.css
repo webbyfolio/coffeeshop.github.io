@@ -750,7 +750,8 @@ section{
     color: #ccc;
     padding: 1rem 0;
     line-height: 1.8;
-    padding-right: 5rem;
+    padding-right: 15rem;
+    padding-left: 15rem;
 }
 
 /* menu page ----*/
