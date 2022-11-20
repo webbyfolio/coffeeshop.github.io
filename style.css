@@ -708,8 +708,8 @@ section{
     line-height: 1.2;
     padding: 1rem 0;
     color: #fff;
-    padding-left: 35rem;
-    padding-right: 35rem;
+    padding-left: 20rem;
+    padding-right: 20rem;
 }
 
 .about_home .content .downarrow{
@@ -781,8 +781,8 @@ section{
     line-height: 1.2;
     padding: 1rem 0;
     color: #fff;
-    padding-left: 35rem;
-    padding-right: 35rem;
+    padding-left: 20rem;
+    padding-right: 20rem;
 }
 
 .menu_home .content .downarrow{
@@ -871,8 +871,8 @@ section{
     line-height: 1.2;
     padding: 1rem 0;
     color: #fff;
-    padding-left: 35rem;
-    padding-right: 35rem;
+    padding-left: 20rem;
+    padding-right: 20rem;
 }
 
 .products_home .content .downarrow{
@@ -910,8 +910,8 @@ section{
     line-height: 1.2;
     padding: 1rem 0;
     color: #fff;
-    padding-left: 35rem;
-    padding-right: 35rem;
+    padding-left: 20rem;
+    padding-right: 20rem;
 }
 
 .blogs_home .content .downarrow{
@@ -938,7 +938,7 @@ section{
 
 .blogs_body .row .content{
     flex: 1 1 35rem;
-    padding-left: 5rem
+    padding-left: 5rem;
 }
 
 .blogs_body .row .content h3{
