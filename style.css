@@ -708,14 +708,14 @@ section{
     line-height: 1.2;
     padding: 1rem 0;
     color: #fff;
-    padding-left: 10rem;
-    padding-right: 10rem;
+    padding-left: 15rem;
+    padding-right: 15rem;
 }
 
 
 .about_home .content .downarrow{
     color: #fff;
-    font-size: 10rem
+    font-size: 10rem;
 }
 
 .about_body .row{
@@ -782,8 +782,8 @@ section{
     line-height: 1.2;
     padding: 1rem 0;
     color: #fff;
-    padding-left: 10rem;
-    padding-right: 10rem;
+    padding-left: 15rem;
+    padding-right: 15rem;
 }
 
 .menu_home .content .downarrow{
@@ -872,13 +872,13 @@ section{
     line-height: 1.2;
     padding: 1rem 0;
     color: #fff;
-    padding-left: 10rem;
-    padding-right: 10rem;
+    padding-left: 15rem;
+    padding-right: 15rem;
 }
 
 .products_home .content .downarrow{
     color: #fff;
-    font-size: 10rem
+    font-size: 10rem;
 }
 
 /* Blog page ----*/
@@ -902,6 +902,7 @@ section{
     text-transform: uppercase;
     color: #fff;
     padding-top: 10rem;
+    text-align: center;
 }
 
 .blogs_home .content p{
@@ -910,13 +911,13 @@ section{
     line-height: 1.2;
     padding: 1rem 0;
     color: #fff;
-    padding-left: 10rem;
-    padding-right: 10rem;
+    padding-left: 15rem;
+    padding-right: 15rem;
 }
 
 .blogs_home .content .downarrow{
     color: #fff;
-    font-size: 10rem
+    font-size: 10rem;
 }
 
 
@@ -970,9 +971,3 @@ section{
     position: fixed;
     z-index: 100;
 }
-
-
-
-
-
-
