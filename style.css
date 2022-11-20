@@ -708,10 +708,9 @@ section{
     line-height: 1.2;
     padding: 1rem 0;
     color: #fff;
-    padding-left: 15rem;
-    padding-right: 15rem;
+    padding-left: 35rem;
+    padding-right: 35rem;
 }
-
 
 .about_home .content .downarrow{
     color: #fff;
@@ -750,8 +749,7 @@ section{
     color: #ccc;
     padding: 1rem 0;
     line-height: 1.8;
-    padding-right: 15rem;
-    padding-left: 15rem;
+    padding-right: 5rem;
 }
 
 /* menu page ----*/
@@ -783,8 +781,8 @@ section{
     line-height: 1.2;
     padding: 1rem 0;
     color: #fff;
-    padding-left: 15rem;
-    padding-right: 15rem;
+    padding-left: 35rem;
+    padding-right: 35rem;
 }
 
 .menu_home .content .downarrow{
@@ -873,8 +871,8 @@ section{
     line-height: 1.2;
     padding: 1rem 0;
     color: #fff;
-    padding-left: 15rem;
-    padding-right: 15rem;
+    padding-left: 35rem;
+    padding-right: 35rem;
 }
 
 .products_home .content .downarrow{
@@ -912,8 +910,8 @@ section{
     line-height: 1.2;
     padding: 1rem 0;
     color: #fff;
-    padding-left: 15rem;
-    padding-right: 15rem;
+    padding-left: 35rem;
+    padding-right: 35rem;
 }
 
 .blogs_home .content .downarrow{
